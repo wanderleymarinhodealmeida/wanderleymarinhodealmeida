@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou trabalhando como Freelancer<br>Pretendo me tornar um Desenvolvedor FrontEnd<br>No momento estou estudando React e JavaScript<br>Preciso de ajuda com TypeScript<br>Me pergunte o que quiser!<br>Gosto bastante de tomar café ☕
+Analista de Suporte N1<br>Pretendo me tornar um Desenvolvedor FrontEnd<br>No momento estou estudando React e JavaScript<br>Preciso de ajuda com TypeScript<br>Me pergunte o que quiser!<br>Gosto bastante de tomar café ☕
 
 
 ## 🌐 Socials:
